@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://abhiramkg2000.github.io/csb-ms8f1/static/css/main.3035a253.chunk.css",
-    "main.js": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/main.d8c1beeb.chunk.js",
-    "main.js.map": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/main.d8c1beeb.chunk.js.map",
+    "main.css": "https://abhiramkg2000.github.io/csb-ms8f1/static/css/main.37e0f697.chunk.css",
+    "main.js": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/main.58985f90.chunk.js",
+    "main.js.map": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/main.58985f90.chunk.js.map",
     "runtime-main.js": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/runtime-main.abf20694.js",
     "runtime-main.js.map": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/runtime-main.abf20694.js.map",
     "static/css/2.e495dbae.chunk.css": "https://abhiramkg2000.github.io/csb-ms8f1/static/css/2.e495dbae.chunk.css",
-    "static/js/2.3f0b6a6a.chunk.js": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/2.3f0b6a6a.chunk.js",
-    "static/js/2.3f0b6a6a.chunk.js.map": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/2.3f0b6a6a.chunk.js.map",
+    "static/js/2.634cc88b.chunk.js": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/2.634cc88b.chunk.js",
+    "static/js/2.634cc88b.chunk.js.map": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/2.634cc88b.chunk.js.map",
     "index.html": "https://abhiramkg2000.github.io/csb-ms8f1/index.html",
     "static/css/2.e495dbae.chunk.css.map": "https://abhiramkg2000.github.io/csb-ms8f1/static/css/2.e495dbae.chunk.css.map",
-    "static/css/main.3035a253.chunk.css.map": "https://abhiramkg2000.github.io/csb-ms8f1/static/css/main.3035a253.chunk.css.map",
-    "static/js/2.3f0b6a6a.chunk.js.LICENSE.txt": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/2.3f0b6a6a.chunk.js.LICENSE.txt"
+    "static/css/main.37e0f697.chunk.css.map": "https://abhiramkg2000.github.io/csb-ms8f1/static/css/main.37e0f697.chunk.css.map",
+    "static/js/2.634cc88b.chunk.js.LICENSE.txt": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/2.634cc88b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.abf20694.js",
     "static/css/2.e495dbae.chunk.css",
-    "static/js/2.3f0b6a6a.chunk.js",
-    "static/css/main.3035a253.chunk.css",
-    "static/js/main.d8c1beeb.chunk.js"
+    "static/js/2.634cc88b.chunk.js",
+    "static/css/main.37e0f697.chunk.css",
+    "static/js/main.58985f90.chunk.js"
   ]
 }
