@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://abhiramkg2000.github.io/csb-ms8f1/static/css/main.3b6c106e.chunk.css",
-    "main.js": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/main.ea10c6ce.chunk.js",
-    "main.js.map": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/main.ea10c6ce.chunk.js.map",
-    "runtime-main.js": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/runtime-main.abf20694.js",
-    "runtime-main.js.map": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/runtime-main.abf20694.js.map",
+    "main.css": "https://abhiramkg2000.github.io/csb-ms8f1/static/css/main.c5d88b9c.chunk.css",
+    "main.js": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/main.aafb54a6.chunk.js",
+    "main.js.map": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/main.aafb54a6.chunk.js.map",
+    "runtime-main.js": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/runtime-main.5ff7a702.js",
+    "runtime-main.js.map": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/runtime-main.5ff7a702.js.map",
     "static/css/2.e495dbae.chunk.css": "https://abhiramkg2000.github.io/csb-ms8f1/static/css/2.e495dbae.chunk.css",
-    "static/js/2.5276d8bd.chunk.js": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/2.5276d8bd.chunk.js",
-    "static/js/2.5276d8bd.chunk.js.map": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/2.5276d8bd.chunk.js.map",
+    "static/js/2.2d6abfdd.chunk.js": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/2.2d6abfdd.chunk.js",
+    "static/js/2.2d6abfdd.chunk.js.map": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/2.2d6abfdd.chunk.js.map",
     "index.html": "https://abhiramkg2000.github.io/csb-ms8f1/index.html",
     "static/css/2.e495dbae.chunk.css.map": "https://abhiramkg2000.github.io/csb-ms8f1/static/css/2.e495dbae.chunk.css.map",
-    "static/css/main.3b6c106e.chunk.css.map": "https://abhiramkg2000.github.io/csb-ms8f1/static/css/main.3b6c106e.chunk.css.map",
-    "static/js/2.5276d8bd.chunk.js.LICENSE.txt": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/2.5276d8bd.chunk.js.LICENSE.txt"
+    "static/css/main.c5d88b9c.chunk.css.map": "https://abhiramkg2000.github.io/csb-ms8f1/static/css/main.c5d88b9c.chunk.css.map",
+    "static/js/2.2d6abfdd.chunk.js.LICENSE.txt": "https://abhiramkg2000.github.io/csb-ms8f1/static/js/2.2d6abfdd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.abf20694.js",
+    "static/js/runtime-main.5ff7a702.js",
     "static/css/2.e495dbae.chunk.css",
-    "static/js/2.5276d8bd.chunk.js",
-    "static/css/main.3b6c106e.chunk.css",
-    "static/js/main.ea10c6ce.chunk.js"
+    "static/js/2.2d6abfdd.chunk.js",
+    "static/css/main.c5d88b9c.chunk.css",
+    "static/js/main.aafb54a6.chunk.js"
   ]
 }
